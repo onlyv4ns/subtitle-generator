@@ -15,21 +15,25 @@ Make sure to install the following dependencies:
 
 1. Clone the repository :
 
+```bash
 git clone https://github.com/onlyv4ns/subtitle-generator.git
 cd video-subtitle-generator
 
 2. Install dependencies:
 
+```bash
 pip install -r requirements.txt
 
 3. Install FFmpeg (required by moviepy):
 
+```bash
 sudo apt install ffmpeg
 
 # Usage
 
 Run the script as follows to generate subtitles from a video:
 
+```bash
 python sub.py -i path/to/video.mp4 -o path/to/output.srt --translate --lang en
 
 Option :
