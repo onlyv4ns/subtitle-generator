@@ -1,5 +1,5 @@
 import whisper
-from moviepy.editor import VideoFileClip
+from moviepy.editor import *
 from googletrans import Translator
 import datetime
 import argparse
