@@ -38,7 +38,7 @@ sudo apt install ffmpeg
 Run the script as follows to generate subtitles from a video:
 
 ```bash
-python sub.py -i path/to/video.mp4 -o path/to/output.srt --translate --lang en
+python3 sub.py -i path/to/video.mp4 -o path/to/output.srt --translate --lang en
 ```
 
 Option :
