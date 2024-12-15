@@ -23,6 +23,7 @@ cd subtitle-generator
 2. Install dependencies:
 
 ```bash
+pip install git+https://github.com/openai/whisper.git
 pip install -r requirements.txt
 ```
 
