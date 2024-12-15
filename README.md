@@ -17,7 +17,7 @@ Make sure to install the following dependencies:
 
 ```bash
 git clone https://github.com/onlyv4ns/subtitle-generator.git
-cd video-subtitle-generator
+cd subtitle-generator
 ```
 
 2. Install dependencies:
